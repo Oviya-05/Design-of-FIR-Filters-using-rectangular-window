@@ -1,4 +1,4 @@
-# EXP4A-Design-of-FIR-Filters-using-rectangular-window
+# EXP4A- Design-of-FIR-Filters-using-rectangular-window
 
 
 # AIM: 
